@@ -19,6 +19,6 @@ li a {
 
 /* Change the link and background color on hover */
 li a:hover {
-  background-color: #555555;
-  color: rgb(90, 26, 26);
+  background-color: #32465e;
 }
+
